@@ -1,0 +1,8 @@
+.map {
+  @include breakpoint(medium) {
+    margin: 0;
+  }
+  @include breakpoint(small) {
+    margin-top: 65px;
+  }
+}

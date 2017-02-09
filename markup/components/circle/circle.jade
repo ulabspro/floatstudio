@@ -1,0 +1,30 @@
+mixin circle(data)
+  .circle.show-for-large
+    .title Источник для жизни
+    .subtitle в сердце мегаполиса
+    
+    .circle-rotation
+      .circle-rotation-logo
+      img.circle-rotateInner(src="__static__images/assets/circle/cirrcle_inner.png")
+      img.circle-rotateOuter(src="__static__images/assets/circle/cirrcle_outer.png")
+      .row
+        .columns.small-2.large-offset-1
+          .circle-icon.circle-icon--relax.rotationHover.circle-icon--withMargin(data-deg=0)
+            i.icon.icon-list
+            p Релаксация и Восстановление
+        .columns.small-6
+        .columns.small-2
+          .circle-icon.circle-icon--beauty.rotationHover.circle-icon--withMargin(data-deg=90)
+            i.icon.icon-flower
+            p Натуральная красота
+        
+      .row
+        .columns.small-2.large-offset-1
+          .circle-icon.circle-icon--recovery.rotationHover(data-deg=270)
+            i.icon.icon-heart
+            p Комплексное оздоровление
+        .columns.small-6
+        .columns.small-2
+          .circle-icon.circle-icon--psychology.rotationHover(data-deg=180)
+            i.icon.icon-stones
+            p Психология равновесия

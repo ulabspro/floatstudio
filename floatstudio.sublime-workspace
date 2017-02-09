@@ -1,0 +1,1116 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wi",
+				"window"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"marign",
+				"margin-bottom"
+			],
+			[
+				"bg",
+				"bg-svg"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"col",
+				"columns"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"fle",
+				"flex-start"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"so",
+				"source-life-mobile"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"top",
+				"topbar"
+			],
+			[
+				"in",
+				"inherit"
+			],
+			[
+				"console",
+				"console.log();"
+			],
+			[
+				"demo-p",
+				"demo-page-1	(scroll.scss)"
+			],
+			[
+				"wind",
+				"windowHeight"
+			],
+			[
+				"scr",
+				"scrollPosition"
+			],
+			[
+				"conso",
+				"console.log();"
+			],
+			[
+				"scro",
+				"scroll"
+			],
+			[
+				"con",
+				"console.log();"
+			],
+			[
+				"visi",
+				"visibility"
+			],
+			[
+				"com",
+				"complex-item-list"
+			],
+			[
+				"lea",
+				"leavingSlide"
+			],
+			[
+				"wn",
+				"winHeight"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"win",
+				"winHeight"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"comp",
+				"complex	(index.jade)"
+			],
+			[
+				"po",
+				"popup-menu	(popup-menu.jade)"
+			],
+			[
+				"pop",
+				"popup-menu"
+			],
+			[
+				"tet",
+				"text-align"
+			],
+			[
+				"foo",
+				"footer-contacts"
+			],
+			[
+				"fo",
+				"footer-social"
+			],
+			[
+				"las",
+				"last-news-right-item"
+			],
+			[
+				"speci",
+				"specialist-list	(specialist.scss)"
+			],
+			[
+				"spe",
+				"specialist-list	(specialist.scss)"
+			],
+			[
+				"sp",
+				"specialist-list"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"topb",
+				"topbar-menu"
+			],
+			[
+				"rem",
+				"rem-calc"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"backgrou",
+				"background-color	(topbar.scss)"
+			],
+			[
+				"defa",
+				"default	(_settings.scss)"
+			],
+			[
+				"i",
+				"import"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"check",
+				"checkout-order-popup"
+			],
+			[
+				"set",
+				"setTimeout(callback, after);"
+			],
+			[
+				"vis",
+				"visible"
+			],
+			[
+				"lef",
+				"left-menu"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"b",
+				"b7b7b7"
+			],
+			[
+				"chec",
+				"checkbox--text"
+			],
+			[
+				"che",
+				"checkbox--text"
+			],
+			[
+				"light",
+				"light-green"
+			],
+			[
+				"comm",
+				"comments-answer"
+			],
+			[
+				"eas",
+				"ease-in-out"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"blo",
+				"blog-entrie"
+			],
+			[
+				"bl",
+				"blog-entrie"
+			],
+			[
+				"visib",
+				"visibility"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"new",
+				"new-entries-item"
+			],
+			[
+				"si",
+				"sitemap-list-item-inside"
+			],
+			[
+				"site",
+				"sitemap-list-item"
+			],
+			[
+				"top-bar",
+				"top-bar-menu-drop"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"menu",
+				"menuItem"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"ea",
+				"ease-in-out"
+			],
+			[
+				"top-ba",
+				"top-bar-compare"
+			],
+			[
+				"pd",
+				"padding-bottom"
+			],
+			[
+				"da",
+				"dark-green"
+			],
+			[
+				"tra",
+				"transition	(brands.scss)"
+			],
+			[
+				"news-item",
+				"news-item__img"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"product-po",
+				"product-pop__item"
+			],
+			[
+				"last-ne",
+				"last-news"
+			],
+			[
+				"data",
+				"data-close"
+			],
+			[
+				"off",
+				"offCanvas	(topbar.jade)"
+			],
+			[
+				"L",
+				"Linus"
+			],
+			[
+				"S",
+				"Schwinn"
+			],
+			[
+				"fi",
+				"filter"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"ca",
+				"categories-menu"
+			],
+			[
+				"margn",
+				"margin-top"
+			],
+			[
+				"checkout-order-content__",
+				"checkout-order-content__block"
+			],
+			[
+				"al",
+				"align-center"
+			],
+			[
+				"bas",
+				"basket-info-total"
+			],
+			[
+				"ba",
+				"basket"
+			],
+			[
+				"bask",
+				"basket-item"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"lig",
+				"light-green"
+			],
+			[
+				"align",
+				"align-middle"
+			],
+			[
+				"pr",
+				"product-info"
+			],
+			[
+				"pa",
+				"pagination__link	(pagination.jade)"
+			],
+			[
+				"pag",
+				"pagination-next"
+			],
+			[
+				"ari",
+				"aria-label"
+			],
+			[
+				"insi",
+				"insideTopTogglerShow	(inside-top.jade)"
+			],
+			[
+				"inside",
+				"insideTopToggler"
+			],
+			[
+				"ins",
+				"inside-top__text"
+			],
+			[
+				"is",
+				"inside-top"
+			],
+			[
+				"slide",
+				"slider-output"
+			],
+			[
+				"sli",
+				"slider-output"
+			],
+			[
+				"marig",
+				"margin-top"
+			],
+			[
+				"maign",
+				"margin-top"
+			],
+			[
+				"sup",
+				"support-main-item"
+			],
+			[
+				"s",
+				"support-main"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"ra",
+				"rating__item"
+			],
+			[
+				"bre",
+				"brend-main"
+			],
+			[
+				"ali",
+				"align-stretch"
+			],
+			[
+				"medi",
+				"medium-6"
+			],
+			[
+				"li",
+				"light-green"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"G",
+				"GothamProBold"
+			],
+			[
+				"sh",
+				"shrink"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"moda",
+				"modal-crop"
+			],
+			[
+				"border-bot",
+				"border-bottom"
+			],
+			[
+				"borde",
+				"border-right"
+			],
+			[
+				"co",
+				"content"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"Package Control: insa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"new",
+				"Tasks: New"
+			],
+			[
+				":",
+				"View: Toggle Menu"
+			],
+			[
+				"",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 431.0
+	},
+	"console":
+	{
+		"height": 526.0,
+		"history":
+		[
+			"cd e:/git/svadbavo-2015/",
+			"update",
+			"export LC_NUMERIC=C",
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"view.settings().get('syntax')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/extiser/git/floatstudio/markup",
+		"/Users/extiser/git/floatstudio/markup/components",
+		"/Users/extiser/git/floatstudio/markup/components/topslider",
+		"/Users/extiser/git/floatstudio/markup/pages",
+		"/Users/extiser/git/floatstudio/markup/static",
+		"/Users/extiser/git/floatstudio/markup/static/js",
+		"/Users/extiser/git/floatstudio/markup/static/scss",
+		"/Users/extiser/git/floatstudio/markup/static/scss/libraries"
+	],
+	"file_history":
+	[
+		"/Users/extiser/git/floatstudio/markup/components/topbar/topbar.jade",
+		"/Users/extiser/git/floatstudio/markup/components/topbar/topbar.scss",
+		"/Users/extiser/git/floatstudio/markup/components/source-life-mobile/source-life-mobile.scss",
+		"/Users/extiser/git/floatstudio/markup/components/topslider/topslider.js",
+		"/Users/extiser/git/floatstudio/markup/components/last-news/last-news.jade",
+		"/Users/extiser/git/floatstudio/markup/components/last-news/last-news.scss",
+		"/Users/extiser/git/floatstudio/markup/components/footer/footer.jade",
+		"/Users/extiser/git/floatstudio/markup/components/footer/footer.scss",
+		"/Users/extiser/git/floatstudio/markup/components/map/map.jade",
+		"/Users/extiser/git/floatstudio/markup/components/map/map.scss",
+		"/Users/extiser/git/floatstudio/markup/pages/index.jade",
+		"/Users/extiser/git/floatstudio/markup/components/last-news/last-news.js",
+		"/Users/extiser/git/floatstudio/markup/static/scss/GUI.scss",
+		"/Users/extiser/git/floatstudio/markup/components/specialist/specialist.js",
+		"/Users/extiser/git/floatstudio/markup/components/specialist/specialist.jade",
+		"/Users/extiser/git/floatstudio/markup/components/specialist/specialist.scss",
+		"/Users/extiser/git/floatstudio/markup/components/complex-item/complex-item.scss",
+		"/Users/extiser/git/floatstudio/markup/components/complex-item/complex-item.jade",
+		"/Users/extiser/git/floatstudio/markup/components/complex/complex.jade",
+		"/Users/extiser/git/floatstudio/markup/components/complex-item-clean/complex-item-clean.jade",
+		"/Users/extiser/git/floatstudio/markup/components/complex/complex.scss",
+		"/Users/extiser/git/floatstudio/markup/components/source-life-mobile/source-life-mobile.jade",
+		"/Users/extiser/git/floatstudio/markup/components/floating/floating.jade",
+		"/Users/extiser/git/floatstudio/markup/components/maintext/maintext.jade",
+		"/Users/extiser/git/floatstudio/markup/components/top-mobile/top-mobile.jade",
+		"/Users/extiser/git/floatstudio/markup/components/top-mobile/top-mobile.scss",
+		"/Users/extiser/git/floatstudio/markup/components/topslider/topslider.scss",
+		"/Users/extiser/git/floatstudio/markup/components/topslider/topslider.jade",
+		"/Users/extiser/git/floatstudio/markup/components/topbar/topbar.js",
+		"/Users/extiser/git/floatstudio/markup/components/head/head.jade",
+		"/Users/extiser/git/floatstudio/markup/static/js/separate-js/scrollify.js",
+		"/Users/extiser/git/floatstudio/markup/static/scss/libraries/scroll.scss",
+		"/Users/extiser/git/floatstudio/markup/static/js/libraries/jquery.betterScroll.js",
+		"/Users/extiser/git/floatstudio/tars-config.js",
+		"/Users/extiser/git/floatstudio/markup/components/maintext/maintext.scss",
+		"/Users/extiser/git/floatstudio/package.json",
+		"/Users/extiser/git/floatstudio/markup/components/popup-menu/popup-menu.jade",
+		"/Users/extiser/git/floatstudio/markup/components/popup-menu/popup-menu.js",
+		"/Users/extiser/git/floatstudio/markup/components/popup-menu/popup-menu.scss",
+		"/Users/extiser/git/izeta-site/markup/modules/more-products/more-products.js",
+		"/Users/extiser/git/izeta-site/markup/modules/block-big-slide/block-big-slide.js",
+		"/Users/extiser/git/izeta-site/markup/modules/block-slide/block-slide.js",
+		"/Users/extiser/git/veloculture/markup/modules/last-news/last-news.js",
+		"/Users/extiser/git/floatstudio/markup/components/complex-item-clean/complex-item-clean.scss",
+		"/Users/extiser/git/propodarki/markup/modules/article-row/article-row.jade",
+		"/Users/extiser/git/floatstudio/markup/components/floating/floating.scss",
+		"/Users/extiser/git/floatstudio/markup/static/scss/_settings.scss",
+		"/Users/extiser/git/floatstudio/markup/components/slider/slider.jade",
+		"/Users/extiser/git/izeta-site/markup/static/scss/mixins.scss",
+		"/Users/extiser/git/izeta-site/markup/static/scss/vars.scss",
+		"/Users/extiser/git/izeta-site/markup/static/scss/common.scss",
+		"/Users/extiser/git/izeta-site/markup/static/scss/GUI.scss",
+		"/Users/extiser/git/izeta-site/tars-config.js",
+		"/Users/extiser/git/floatstudio/markup/static/scss/fonts.scss",
+		"/Users/extiser/git/floatstudio/markup/static/scss/vars.scss",
+		"/Users/extiser/git/floatstudio/markup/static/scss/entry/partials/_libraries.scss",
+		"/Users/extiser/git/floatstudio/markup/static/scss/mixins.scss",
+		"/Users/extiser/git/izeta-site/node_modules/foundation-sites/scss/_global.scss",
+		"/Users/extiser/git/floatstudio/markup/static/scss/entry/main.scss",
+		"/Users/extiser/git/izeta-site/node_modules/foundation-sites/assets/foundation-flex.scss",
+		"/Users/extiser/git/izeta-site/node_modules/foundation-sites/assets/foundation.scss",
+		"/Users/extiser/git/izeta-site/node_modules/foundation-sites/scss/settings/_settings.scss",
+		"/Users/extiser/git/izeta-site/node_modules/foundation-sites/scss/foundation.scss",
+		"/Users/extiser/git/izeta-site/node_modules/foundation-sites/scss/forms/_error.scss",
+		"/Users/extiser/git/izeta-site/node_modules/foundation-sites/scss/grid/_classes.scss",
+		"/Users/extiser/git/floatstudio/markup/static/scss/plugins/foundation-settings.scss",
+		"/Users/extiser/git/floatstudio/markup/static/scss/libraries/foundation-settings.scss",
+		"/Users/extiser/git/floatstudio/markup/static/scss/etc/foundation-settings.scss",
+		"/Users/extiser/git/izeta-site/markup/pages/_layout.jade",
+		"/Users/extiser/git/floatstudio/dev/static/css/main.css",
+		"/Users/extiser/git/floatstudio/node_modules/foundation-sites/scss/foundation.scss",
+		"/Users/extiser/git/floatstudio/markup/static/scss/common.scss",
+		"/Users/extiser/git/izeta-site/markup/static/scss/_izeta_settings.scss",
+		"/Users/extiser/git/izeta-site/package.json",
+		"/Users/extiser/git/veloculture/markup/modules/checkout-order/checkout-order.jade",
+		"/Users/extiser/git/veloculture/markup/pages/checkout.jade",
+		"/Users/extiser/git/veloculture/markup/modules/last-news/last-news.scss",
+		"/Users/extiser/git/veloculture/markup/modules/checkout-order-popup/checkout-order-popup.jade",
+		"/Users/extiser/git/veloculture/markup/modules/checkout-order-popup/checkout-order-popup.scss",
+		"/Users/extiser/git/veloculture/markup/pages/_layout.jade",
+		"/Users/extiser/git/veloculture/markup/modules/product/product.scss",
+		"/Users/extiser/git/veloculture/markup/modules/product/product.jade",
+		"/Users/extiser/git/veloculture/markup/modules/topbar/topbar.jade",
+		"/Users/extiser/git/veloculture/markup/modules/topbar/topbar.scss",
+		"/Users/extiser/git/veloculture/markup/modules/product-tabs/product-tabs.jade",
+		"/Users/extiser/git/veloculture/markup/modules/product-images/product-images.js",
+		"/Users/extiser/git/veloculture/markup/modules/product-images/product-images.scss",
+		"/Users/extiser/git/veloculture/markup/modules/accessories-block/accessories-block.scss",
+		"/Users/extiser/git/veloculture/markup/modules/product-tabs/product-tabs.js",
+		"/Users/extiser/git/veloculture/markup/modules/accessories-block/accessories-block.jade",
+		"/Users/extiser/git/veloculture/markup/modules/product-tabs/product-tabs.scss",
+		"/Users/extiser/git/veloculture/markup/modules/sidebar/sidebar.jade",
+		"/Users/extiser/git/veloculture/markup/modules/test-drive/test-drive.jade",
+		"/Users/extiser/git/veloculture/markup/modules/test-drive/test-drive.scss",
+		"/Users/extiser/git/veloculture/markup/modules/menu/menu.jade",
+		"/Users/extiser/git/veloculture/markup/modules/menu/menu.scss",
+		"/Users/extiser/git/veloculture/markup/modules/+test-drive/test-drive.jade",
+		"/Users/extiser/git/veloculture/markup/modules/slider-main/slider-main.scss",
+		"/Users/extiser/git/veloculture/markup/modules/product-sort/product-sort.jade",
+		"/Users/extiser/git/veloculture/markup/modules/product-sort/product-sort.scss",
+		"/Users/extiser/git/veloculture/markup/pages/accessories.jade",
+		"/Users/extiser/git/veloculture/markup/modules/filter/filter.jade",
+		"/Users/extiser/git/veloculture/markup/modules/checkbox/checkbox.jade",
+		"/Users/extiser/git/veloculture/markup/modules/checkbox/checkbox.scss",
+		"/Users/extiser/git/veloculture/markup/static/scss/plugins/custom-scroll.scss",
+		"/Users/extiser/git/veloculture/markup/modules/filter/filter.js",
+		"/Users/extiser/git/veloculture/markup/modules/filter/filter.scss",
+		"/Users/extiser/git/veloculture/markup/modules/comments/comments.scss",
+		"/Users/extiser/git/veloculture/markup/modules/comments/comments.jade",
+		"/Users/extiser/git/veloculture/markup/pages/blog-entrie.jade",
+		"/Users/extiser/git/veloculture/markup/modules/blog-entrie/blog-entrie.jade",
+		"/Users/extiser/git/veloculture/markup/modules/blog-entrie/blog-entrie.scss",
+		"/Users/extiser/git/veloculture/markup/modules/tags/tags.jade",
+		"/Users/extiser/git/veloculture/markup/modules/tags/tags.scss",
+		"/Users/extiser/git/veloculture/markup/pages/blog.jade",
+		"/Users/extiser/git/veloculture/markup/modules/new-entries/new-entries.scss",
+		"/Users/extiser/git/veloculture/markup/modules/new-entries/new-entries.jade",
+		"/Users/extiser/git/veloculture/markup/static/scss/etc/icons.scss",
+		"/Users/extiser/git/veloculture/markup/modules/sitemap-list/sitemap-list.jade",
+		"/Users/extiser/git/veloculture/markup/pages/sitemap.jade",
+		"/Users/extiser/git/veloculture/markup/modules/sitemap-list/sitemap-list.scss",
+		"/Users/extiser/git/veloculture/markup/modules/footer/footer.jade",
+		"/Users/extiser/git/veloculture/markup/modules/footer/footer.scss",
+		"/Users/extiser/git/veloculture/markup/modules/checkout-details/checkout-details.scss",
+		"/Users/extiser/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/extiser/git/veloculture/markup/modules/basket-item/basket-item.scss",
+		"/Users/extiser/git/veloculture/markup/modules/basket-item/basket-item.jade",
+		"/Users/extiser/git/veloculture/markup/modules/basket-info/basket-info.scss"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			".button",
+			".last-news-right",
+			"\n\n\n\n\n\n",
+			"\n",
+			"\n\n\n\n",
+			"\n\n\n\n\n\n",
+			"\n\n\n\n\n\n\n\n\n\n\n",
+			"\n\n\n\n\n\n\n\n\n\n\n\n",
+			"mCSB_dragger_onDrag",
+			"onDrag",
+			", 'icon-circle-o'",
+			".sitemap-list-inside-item__link",
+			".sitemap-list-item__link",
+			".sitemap-list-item__link ",
+			"jRating",
+			"', '",
+			"<span class=\"submenu__label\">",
+			"</span></a></li><li class=\"submenu__item\"><a href=\"/velocatalog/shossejnye\" class=\"submenu__link\"><i class='icons-font i-plus'></i>",
+			".top-bar-basket-pop",
+			".menu",
+			"type=\"radio\"",
+			".brend-main",
+			"sticky",
+			"/uploads/",
+			"img src",
+			">",
+			"<img",
+			"<img ",
+			"$color",
+			"color",
+			"main",
+			"ьфшт",
+			"#000",
+			"search",
+			"(765)\n	",
+			"(765)",
+			"onThumbnailsClick",
+			"pswp",
+			"pswp__item",
+			"openPhotoSwipe",
+			"Thumbnail",
+			"parse",
+			"parseThumbnailElements",
+			".col-lg-11.col-xs-12.col-md-12",
+			".col-lg-1.hidden-xs",
+			".col-lg-1.hidden-xs.hidden-md",
+			".col-lg-11.col-lg-offset-1.col-xs-12.col-md-12",
+			".col-xs-12",
+			".col-md",
+			".col-xs-12",
+			".visible-xs-block.visible-md-block",
+			".visible-xs-block",
+			".title",
+			"8",
+			"send",
+			"$blue",
+			"-webkit-margin-before: 1em;",
+			"HelveticaNeueCyrBold",
+			"../static/images/",
+			"&--individualcreate",
+			"&--momentglory",
+			"&--threecolors",
+			"&--theone",
+			"&--bigdisplay",
+			"../images/",
+			".art-menu",
+			".art-menu ul li",
+			"parent",
+			"paren",
+			"content-row-l",
+			"content-row-f",
+			"content-row2",
+			"content-row1",
+			".art-menu a",
+			"\"",
+			"$",
+			"slides",
+			"'",
+			"brow",
+			"localhost",
+			"art-postheader",
+			"jquery",
+			"migrate",
+			"jquery",
+			".show_me_the_map",
+			"jquery",
+			"uslugi3",
+			"top-orange",
+			"sidebar",
+			"margin-top: -37px;",
+			"sidebar-left",
+			".left-sidebar",
+			"art-sheet-body",
+			".subcategory",
+			"art-postheader",
+			".contact-info-footer a",
+			".art-footer .art-nav a",
+			".art-menu .art-menu-li-separator",
+			".art-menu a .t, .art-menu ul a, .art-menu a, .art-menu a:link, .art-menu a:visited, .art-menu a:hover",
+			"../images",
+			"inner-entry",
+			"portfolio-sort-container",
+			"art",
+			"font-size: 18px;",
+			"@media",
+			".logo",
+			"юдщпщ",
+			".header",
+			"header",
+			"h1",
+			"title",
+			"post",
+			"eight",
+			"thumbElements",
+			"split",
+			"figure",
+			"gallerySelector",
+			"wrapper",
+			"append",
+			"Наши партнёры: ",
+			"full-catalog",
+			"loop",
+			"products",
+			"bread",
+			"Велоакс",
+			"Вело",
+			"add_submenu_page",
+			"Классы"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			".last-news-list",
+			"",
+			".top-bar-compare-pop",
+			".left-menu",
+			"type=\"checkbox\"",
+			".brands",
+			"http://veloculture.ru/uploads/",
+			"img(src",
+			")",
+			"img",
+			"\n	span (765)\n	",
+			"\n	span (765)",
+			".col-xs-12.col-md-12.col-lg-11",
+			".hidden-xs.col-lg-1",
+			".hidden-xs.hidden-md.col-lg-1",
+			".col-xs-12.col-md-12.col-lg-11.col-lg-offset-1",
+			".col-xs-12.col-md-12",
+			".col-lg",
+			"",
+			".visible-xs-block.visible-md-block",
+			".title.visible-xs-block",
+			"#70cfea",
+			"angular",
+			"SegoeUILight",
+			"../images/",
+			"&--individualCreate",
+			"&--momentGlory",
+			"&--threeColors",
+			"&--theOne",
+			"&--bigDisplay",
+			"../static/images/",
+			"contentRowL",
+			"contentRowF",
+			"content-row-l",
+			"content-row-f",
+			"'",
+			"jQuery",
+			"slider",
+			"\"",
+			"uslugi",
+			"/images",
+			"CalendarByWeek",
+			"www.acccentre.ru",
+			"acccentre.ru",
+			"firm-card-tabs-video-album",
+			"acccentre.iqdemo.ru",
+			"javascript:void(0)",
+			".slide__content__title",
+			"",
+			"/images/",
+			"water",
+			"cr_stone_kg",
+			"cr_stone_m",
+			"sand_m",
+			"sand_kg",
+			"sand_m",
+			"cement",
+			"bags",
+			"plaster_kg",
+			"bags",
+			"plaster_kg",
+			"",
+			"option",
+			"",
+			".pagination__item",
+			"order-by",
+			"/images/",
+			"../images/sprite.png",
+			"/images",
+			"/",
+			"/images",
+			"/images/",
+			"",
+			"../images",
+			"",
+			"b-why-you-need",
+			"b-in-photo",
+			"b-why",
+			"03dbaf",
+			"01a987",
+			"03bd97",
+			"<button type=\"button\" class=\"btn btn-success save_redact\">Сохранить</button>\n					            	<button type=\"button\" class=\"btn btn-default cancel_redact\">Отменить</button>",
+			"<button type=\"button\" class=\"btn btn-success save_redact\">Сохранить</button>\n<button type=\"button\" class=\"btn btn-default cancel_redact\">Отменить</button>",
+			"col-xs",
+			"",
+			"class=\"save_redact\"",
+			"class=\"redacting\"",
+			"rows=\"5\"",
+			"parking",
+			"option",
+			"",
+			"</p>",
+			"<p>",
+			".footer",
+			"",
+			"table-finance-counters",
+			"btn",
+			"table__row table__row--tbody table-stat__row--tbody",
+			"table__row--cell table-stat__row--cell",
+			"table__row--cell",
+			" cell",
+			"images/",
+			"font/",
+			"/font/",
+			"/images/",
+			"images/",
+			"font/",
+			" {",
+			"/font/",
+			"/images/",
+			"images",
+			"font",
+			"url(PIE.htc);",
+			"/images/",
+			"/font/",
+			"images",
+			"font",
+			"",
+			"/images/",
+			"/font/",
+			"сервиса"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 63.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 28.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "floatstudio.sublime-project",
+	"replace":
+	{
+		"height": 114.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 274.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}

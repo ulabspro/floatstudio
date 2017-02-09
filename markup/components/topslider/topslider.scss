@@ -1,0 +1,90 @@
+.topslider {
+  height: 100vh;
+}
+
+.topslider-scroll {
+  position: absolute;
+  z-index: 2;
+  bottom: 20px;
+
+  color: $white;
+
+  font-size: rem-calc(28);
+
+  @include horizontal-center;
+}
+
+.topslider-list-item {
+  position: relative;
+
+  background-color: #f4f4f4;
+}
+
+.topslider-list-item-content {
+  z-index: 1;
+
+  max-width: 50%;
+  padding-top: 60px;
+//  padding-left: 50px;
+
+  color: $black;
+
+  @include vertical-center;
+  
+  &__title {
+    letter-spacing: .075em;
+    text-transform: uppercase;
+
+    font-family: $RalewayBold;
+    font-size: rem-calc(60);
+  }
+  &__subtitle {
+    letter-spacing: .075em;
+    text-transform: uppercase;
+
+    font-size: rem-calc(32);
+  }
+  &__text {
+    max-width: 65%;
+    margin-top: 34px;
+    margin-bottom: 34px;
+
+    font-size: rem-calc(14);
+    line-height: rem-calc(28);
+  }
+}
+
+.topslider-list-item-image {
+  height: 100vh;
+  img {
+    position: absolute;
+    z-index: 0;
+    right: 0;
+
+    width: auto;
+    height: 100%;
+  }
+}
+
+.topslider-dots {
+  margin-left: 8.33333%;
+  position: absolute;
+  bottom: 20px;
+  left: 1rem;
+  li {
+    display: inline-block;
+
+    width: 8px;
+    height: 8px;
+    margin-right: 32px;
+
+    vertical-align: middle;
+    text-indent: -9999px;
+
+    border-radius: 50%;
+    background-color: $black;
+    &.slick-active {
+      background-color: $blue;
+    }
+  }
+}

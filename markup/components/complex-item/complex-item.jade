@@ -1,0 +1,47 @@
+mixin complex-item(title, img)
+  - img = img || "http://placehold.it/450x450&text=image"
+  .complex-item
+    .complex-item__content
+      .row.align-middle
+        .columns.small-4.large-12
+          .complex-item__img
+            img(src=img)
+        .columns.small-8.large-12
+          a(href="#" title="").complex-item__title!=title
+      .complex-item__text.show-for-large Краткое описание, Список услуг и иконки отображаются только при наведении.
+      
+      .complex-item-hidden.show-for-large
+        .complex-item__icons
+          .row.full.noGutter.align-center
+            .columns.shrink
+              i.icon.icon-list
+            .columns.shrink
+              i.icon.icon-cross
+            .columns.shrink
+              i.icon.icon-heart
+            .columns.shrink
+              i.icon.icon-cross
+            .columns.shrink
+              i.icon.icon-stones
+
+        .complex-item-list.show-for-large
+          .complex-item-list__item
+            i.icon.icon-circle
+            span Иглоукалывание
+          .complex-item-list__item
+            i.icon.icon-circle
+            span Тибетская медицина
+          .complex-item-list__item
+            i.icon.icon-circle
+            span Флоатинг
+          .complex-item-list__item
+            i.icon.icon-circle
+            span Здоровое питание / фитотерапия / ДНК
+          .complex-item-list__item
+            i.icon.icon-circle
+            span Массажи
+          .complex-item-list__item
+            i.icon.icon-circle
+            span Интегральные телесные практики
+
+      a(href="#" title="").button.small.black.show-for-large Узнать о программе

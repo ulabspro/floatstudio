@@ -1,0 +1,27 @@
+.top-mobile {
+  position: relative;
+
+  height: 80vh;
+
+  text-align: center;
+
+  background: url(%=static=%content/top-mobile.jpg) no-repeat;
+  background-size: cover;
+  &__logo {
+    position: relative;
+    top: 10vh;
+
+    margin: auto;
+
+    @include bg($logo);
+  }
+  .button {
+    position: absolute;
+    right: 0;
+    bottom: 60px;
+    left: 0;
+
+    width: 178px;
+    margin: auto;
+  }
+}

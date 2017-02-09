@@ -1,0 +1,152 @@
+.topbar {
+  z-index: 99;
+  top: 0;
+  left: 0;
+
+  width: 100%;
+  max-height: 160px;
+
+  transition: all .4s ease-in-out;
+
+  line-height: 1;
+
+  @include breakpoint(large) {
+    position: fixed;
+
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+
+    background-color: rgba($white, .62);
+  }
+  @include breakpoint(small) {
+    position: inherit;
+
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+
+    background-color: #f4f4f4;
+  }
+  .icon,
+  span {
+    display: inline-block;
+
+    vertical-align: middle;
+  }
+  &.is-scrolled {
+    background-color: rgba($white, .86);
+  }
+}
+
+.topbar-logo {
+  display: block;
+
+  @include breakpoint(large) {
+    margin-left: 0;
+
+    @include bg($logo);
+  }
+  @include breakpoint(small) {
+    margin: auto;
+    @include bg($logo);
+  }
+}
+
+.topbar-address {
+  &__underground {
+    margin-bottom: 10px;
+
+    letter-spacing: .2em;
+    text-transform: uppercase;
+
+    color: $black;
+
+    font-family: $RalewayRegular;
+    font-size: rem-calc(12);
+    .icon {
+      font-size: rem-calc(22.4);
+    }
+    span {
+      margin-top: -5px;
+      margin-left: 15px;
+      padding-right: 8px;
+    }
+  }
+  &__place {
+    .icon {
+      margin-left: -1px;
+
+      font-size: rem-calc(25);
+    }
+    .button {
+      margin-left: 16px;
+    }
+  }
+}
+
+.topbar-phone {
+  @include breakpoint(large) {
+    text-align: right;
+  }
+  @include breakpoint(small) {
+    text-align: left;
+  }
+  &__number {
+
+    letter-spacing: .025em;
+    text-transform: uppercase;
+
+    color: $black;
+
+    font-family: "Open Sans", sans-serif;
+    font-size: rem-calc(18);
+    @include breakpoint(large) {
+    margin-bottom: 10px;
+      
+    }
+    @include breakpoint(small) {
+      margin-bottom: 0;
+    }
+    .icon {
+      font-size: rem-calc(22.4);
+    }
+    span {
+      margin-top: -5px;
+      margin-left: 15px;
+    }
+  }
+  &__request {
+    .icon {
+      font-size: rem-calc(22);
+    }
+    .button {
+      margin-left: 16px;
+    }
+  }
+}
+
+.topbar-menu {
+  @include breakpoint(large) {
+    margin-bottom: 10px;
+  }
+  @include breakpoint(small) {
+    margin-bottom: 0;
+  }
+  .icon {
+    margin-top: 3px;
+
+    font-size: rem-calc(22);
+  }
+  .button {
+    width: 107px;
+    margin-left: 16px;
+  }
+}
+
+.topbar-buy {
+  margin-bottom: 0;
+
+  @extend .topbar-menu;
+  .icon {
+    margin-top: 0;
+  }
+}

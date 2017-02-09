@@ -1,0 +1,95 @@
+.circle {
+  position: relative;
+
+  padding-top: 8rem;
+  // elements 
+  &-rotation {
+    margin-top: 4rem;
+    position: relative;
+  }
+  &-icon {
+    &--withMargin {
+      margin-bottom: 5rem;
+    }
+  }
+  // rotation
+  &-rotateInner {
+    @include absolute-center;
+  }
+  &-rotateOuter {
+    transition: 1s;
+    transform: translate(-50%, -50%) rotate(90deg);
+
+    @include absolute-center;
+  }
+}
+
+.circle-rotation-logo {
+  @include bg($logo);
+  @include absolute-center;
+  z-index: 2;
+}
+
+.circle-icon {
+  &:hover {
+    .icon {
+      color: $white;
+    }
+  }
+  &--relax {
+    &:hover {
+      .icon {
+        background-color: #00bff4;
+      }
+    }
+  }
+  &--beauty {
+    &:hover {
+      .icon {
+        background-color: #cadd00;
+      }
+    }
+  }
+  &--recovery {
+    &:hover {
+      .icon {
+        background-color: #fba600;
+      }
+    }
+  }
+  &--psychology {
+    &:hover {
+      .icon {
+        background-color: #ae8de2;
+      }
+    }
+  }
+  .icon {
+    display: block;
+
+    box-sizing: border-box;
+    width: 128px;
+    height: 128px;
+    margin: 0 auto 10px;
+    padding-top: 25px;
+
+    transition: all .4s ease-in-out;
+    text-align: center;
+
+    color: $black;
+    border-radius: 50%;
+
+    font-size: rem-calc(64);
+  }
+  p {
+    text-align: center;
+    letter-spacing: .050em;
+    text-transform: uppercase;
+
+    color: $black;
+
+    font-family: $RalewayBold;
+    font-size: rem-calc(16);
+    line-height: rem-calc(24);
+  }
+}

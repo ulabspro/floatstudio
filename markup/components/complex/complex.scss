@@ -1,0 +1,8 @@
+.complex {
+  @include breakpoint(large) {
+    padding-top: 8rem;
+  }
+  @include breakpoint(small) {
+    padding-top: 2rem;
+  }
+}

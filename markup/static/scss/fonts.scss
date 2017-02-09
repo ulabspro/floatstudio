@@ -1,0 +1,12 @@
+/* Your custom fonts here */
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:600&subset=latin,cyrillic);
+
+@include font-face(RalewayLight, "../fonts/Raleway-Light");
+$RalewayLight: 'RalewayLight', Helvetica, Arial, sans-serif;
+
+@include font-face(RalewayRegular, "../fonts/Raleway-Regular");
+$RalewayRegular: 'RalewayRegular', Helvetica, Arial, sans-serif;
+
+@include font-face(RalewayBold, "../fonts/Raleway-Bold");
+$RalewayBold: 'RalewayBold', Helvetica, Arial, sans-serif;

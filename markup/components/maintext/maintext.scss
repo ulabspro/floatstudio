@@ -1,0 +1,28 @@
+.maintext {
+  padding: 8rem 0;
+  
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+
+  color: $black;
+  h1 {
+    margin-bottom: 40px;
+
+    letter-spacing: .075em;
+    text-transform: uppercase;
+
+    font-family: $RalewayBold;
+    font-size: 2.5rem;
+    font-weight: normal;
+  }
+  p {
+    margin-bottom: 30px;
+    padding: 0 125px;
+
+    font-size: rem-calc(14);
+    line-height: rem-calc(28);
+  }
+  .button {
+    margin-top: 25px;
+  }
+}

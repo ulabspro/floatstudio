@@ -1,0 +1,30 @@
+mixin topbar
+  .topbar(id="topbar")
+    .row.full.align-center
+      .columns.large-10
+        .row.align-justify
+          .columns.small-order-2.large-order-1.shrink
+            a(href="#" title="").topbar-logo
+          .columns.show-for-large.large-order-2.text-right.shrink
+            .topbar-address
+              .topbar-address__underground
+                i.icon.icon-metro
+                span м. Новокузнецкая
+              .topbar-address__place
+                i.icon.icon-map-pik
+                a(href="#" title="").button.tiny Как нас найти
+          .columns.small-order-1.large-order-3.shrink
+            .topbar-phone
+              .topbar-phone__number
+                i.icon.icon-phone
+                span.show-for-large +7 499 110 52 10
+              .topbar-phone__request.show-for-large
+                i.icon.icon-pencil
+                a(href="#" title="").button.tiny Записаться
+          .columns.text-right.small-order-3.large-order-4.shrink
+            .topbar-menu
+              i.icon.icon-menu
+              a(href="#" title="" id="popupMenuTriggerOpen").button.tiny.show-for-large Меню
+            .topbar-buy.show-for-large
+              i.icon.icon-card
+              a(href="#" title="").button.tiny Купить

@@ -1,0 +1,49 @@
+.complex-item-clean {
+    margin: 20px auto 0;
+    
+  position: relative;
+
+  text-align: center;
+  &:hover {
+    .complex-item-clean__choice {
+      color: $white;
+      background-color: $blue;
+    }
+  }
+    
+      
+  &__choiceWrapper {
+    max-width: 80%;
+    margin: 0 auto;
+  }
+  &__choice {
+    position: relative;
+
+    width: 100%;
+    padding-bottom: 100%;
+    margin: 0 auto 60px;
+    transition: all .4s ease-in-out;
+
+    border: 3px solid $blue;
+    border-radius: 50%;
+    span {
+      width: 100%;
+      letter-spacing: .025em;
+      text-transform: uppercase;
+
+      font-family: $RalewayRegular;
+      font-size: 1.5rem;
+//      line-height: rem-calc(48);
+      max-width: 80%;
+
+      @include absolute-center;
+    }
+  }
+  &__text {
+    width: 80%;
+    margin: 0 auto 1.8rem;
+
+    font-size: rem-calc(14);
+    line-height: rem-calc(24);
+  }
+}

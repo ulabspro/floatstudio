@@ -1,0 +1,25 @@
+.floating {
+  &__title {
+    position: relative;
+    span {
+      position: relative;
+      top: -35px;
+
+      display: block;
+
+      text-transform: uppercase;
+
+      font-family: $RalewayRegular;
+      font-size: rem-calc(24);
+    }
+  }
+  &__text {
+    padding-right: 95px;
+
+    font-size: rem-calc(14);
+    line-height: rem-calc(28);
+    p {
+      margin-bottom: 30px;
+    }
+  }
+}

@@ -1,0 +1,41 @@
+doctype html
+html(class="no-js", lang="ru")
+
+    include ../components/head/head
+    include ../components/top-mobile/top-mobile
+    include ../components/topbar/topbar
+    include ../components/popup-menu/popup-menu
+    include ../components/topslider/topslider
+    include ../components/maintext/maintext
+    include ../components/source-life-mobile/source-life-mobile
+    include ../components/floating/floating
+    include ../components/complex/complex
+    include ../components/complex-item/complex-item
+    include ../components/complex-item-clean/complex-item-clean
+    include ../components/specialist/specialist
+    include ../components/last-news/last-news
+    include ../components/map/map
+    include ../components/footer/footer
+    include ../components/circle/circle
+
+    head
+        +head(head.defaults)
+    body
+        +topbar
+        +popup-menu
+        +topslider
+        +circle
+        +maintext
+        +source-life-mobile
+        +floating
+        +complex
+        +specialist
+        +last-news
+        +map
+        +footer
+
+        script(src='%=static=%js/separate-js/svg4everybody.min.js')
+        script svg4everybody();
+
+        //- Main scripts. You can replace it, but I recommend you to leave it here
+        script(src='%=static=%js/main%=hash=%%=min=%.js')

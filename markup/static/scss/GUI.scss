@@ -1,0 +1,186 @@
+// GUI stylies of the project
+// For example, styles of the links, buttons and so on.
+
+// Foundation
+@import "_settings.scss";
+
+@import "foundation-sites/scss/foundation.scss";
+
+
+//foundation mixins
+$global-flexbox: true !global;
+@include foundation-global-styles;
+@include foundation-flex-grid;
+@include foundation-typography;
+@include foundation-forms;
+@include foundation-button;
+@include foundation-visibility-classes;
+@include foundation-float-classes;
+@include foundation-flex-classes;
+
+
+@import "slick-carousel/slick/slick.scss";
+
+// foundation styles
+
+.row {
+  &.full {
+    width: 100%;
+    max-width: initial;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  &.noGutter {
+    .columns {
+      padding: 0;
+    }
+  }
+}
+
+// columns modifiers
+.columns {
+  position: relative;
+  &.noGutter {
+    padding: 0;
+  }
+}
+
+
+// button styles
+.button {
+  box-sizing: border-box;
+  box-sizing: border-box;
+  margin-bottom: 0;
+  padding: 0 1.3rem;
+
+  letter-spacing: .2em;
+  text-transform: uppercase;
+
+  color: $black;
+  border: 1px solid $blue;
+  background: none;
+
+  font-family: $RalewayRegular;
+  font-size: rem-calc(12);
+  &:hover {
+    background-color: $blue;
+  }
+  &.tiny {
+    line-height: 22px;
+  }
+  &.small {
+    line-height: 48px;
+  }
+  &.big {
+    padding: 0 2rem;
+
+    font-size: rem-calc(24);
+    line-height: rem-calc(96);
+  }
+  &.black {
+    border-color: $black;
+    &:hover {
+      border-color: $blue;
+    }
+  }
+  &.white {
+    color: $white;
+    border-color: $white;
+    &:hover {
+      border-color: $blue;
+    }
+  }
+}
+
+// title
+.title {
+  text-align: center;
+  letter-spacing: .075em;
+  text-transform: uppercase;
+
+  color: $black;
+
+  font-family: $RalewayBold;
+
+  @include breakpoint(medium) {
+    padding: 0;
+
+    font-size: 2.5rem;
+    line-height: 1;
+  }
+  @include breakpoint(small) {
+    // padding: 0 60px;
+
+    font-size: rem-calc(24);
+    line-height: rem-calc(30);
+  }
+}
+
+.subtitle {
+  margin-bottom: 30px;
+
+  text-align: center;
+
+  color: $black;
+
+  font-family: $RalewayLight;
+
+  @include breakpoint(medium) {
+    margin-top: 0;
+
+    letter-spacing: .025em;
+    text-transform: none;
+
+    font-size: rem-calc(32);
+  }
+  @include breakpoint(small) {
+    margin-top: 10px;
+
+    letter-spacing: .075em;
+    text-transform: uppercase;
+
+    font-size: rem-calc(12);
+  }
+}
+
+.text {
+  padding: 0 120px;
+
+  text-align: center;
+
+  color: $black;
+
+  font-size: rem-calc(14);
+  line-height: rem-calc(28);
+}
+
+a {
+  color: $black;
+  &:hover {
+    color: $black;
+  }
+}
+
+// slick buttons
+
+.slick-arrow {
+  position: absolute;
+  top: 25%;
+
+  color: #dadada;
+
+  font-size: rem-calc(48);
+  &:hover {
+    cursor: pointer;
+
+    color: $blue;
+  }
+}
+
+.slick-prev {
+  left: 0;
+}
+
+.slick-next {
+  right: 0;
+}

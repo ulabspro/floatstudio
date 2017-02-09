@@ -1,0 +1,15 @@
+mixin topslider
+  .topslider.show-for-large(id="topslider")
+    .topslider-scroll
+      i.icon.icon-scroll
+    .topslider-list
+      - for (var i = 0; i < 5; i++)
+        .topslider-list-item
+          .row.full
+            .topslider-list-item-content.columns.large-offset-1
+              .topslider-list-item-content__title Флоат студия
+              .topslider-list-item-content__subtitle на Новокузнецкой
+              .topslider-list-item-content__text Добро пожаловать в центр медицинского велнеса и восстановительной медицины "Флоат Студия", пространство расслабления, оздоровления и отдыха в самом центре Москвы посреди суеты мегаполиса!
+              a(href="#" title="").button.small.black Подробнее
+            .topslider-list-item-image
+              img(src="%=static=%images/content/slider-1.jpg" alt="")
